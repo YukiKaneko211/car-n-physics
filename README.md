@@ -1,6 +1,6 @@
 # Car n' Physics
 
-Shooting range video game mede by Unreal Engine 5. Since the project size is too big to upload here, the whole project is stored here: https://1drv.ms/f/c/cd99854cdd5e93e9/Eray4QQ1PkRAiTpg5nWqU74BSxt2Rq69X2TysjzzCSypKg?e=NjV9nX
+Video game features car movement and physics, mede by Unreal Engine 5. Since the project size is too big to upload here, the whole project is stored here: https://1drv.ms/f/c/cd99854cdd5e93e9/Eray4QQ1PkRAiTpg5nWqU74BSxt2Rq69X2TysjzzCSypKg?e=NjV9nX
 
 ## Used Assed
 I used a lot of third party assets provided on Fab market place. Most of models and animations are not made by me. Check the list of downloaded assets in `Content` directory.
