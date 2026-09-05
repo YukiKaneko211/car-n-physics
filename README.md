@@ -19,7 +19,11 @@ I used assets provided by kood/Jõhvi.
 
 To play the game, execute `VehiclePhysics.exe` in the project folder.
 
-- hit Tab to open menu.
+- move around by WASD
+- look around by mouse
+- hit L to ON/OFF headlight in the car
+- hit Space to brake in the car
+- hit C to toggle camera in the car
 
 You can also check the test play video.
 
