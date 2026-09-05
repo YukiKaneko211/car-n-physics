@@ -1,18 +1,26 @@
 # Car n' Physics
 
-Video game features car movement and physics, mede by Unreal Engine 5. Since the project size is too big to upload here, the whole project is stored here: https://1drv.ms/f/c/cd99854cdd5e93e9/Eray4QQ1PkRAiTpg5nWqU74BSxt2Rq69X2TysjzzCSypKg?e=NjV9nX
+Video game features car movement and physics, mede by Unreal Engine 5.
+
+This app was created according to the requirements of kood/Jõhvi: https://github.com/01-edu/public/tree/master/subjects/gaming/vehicle-physics
+
+Since the project size is too big to upload here, only the parts of the project & .exe file are stored here: https://illuminatekmkz-my.sharepoint.com/:f:/g/personal/yuki_k_illuminatekmkz_onmicrosoft_com/IgBb0260GSd4QpkVtLAASnn4AfVSz44tWuSL1QRFTsZrN1c?e=6OG4DX
 
 ## Used Assed
-I used a lot of third party assets provided on Fab market place. Most of models and animations are not made by me. Check the list of downloaded assets in `Content` directory.
 
-## Installation & How to Play
-To play the game, you need to download the whole `Windows` directory and run `VehiclePhysics.exe` on Windows.
+I used assets provided by kood/Jõhvi.
 
-OR 
+## BluePrints
 
-You can check the test play video: [https://youtu.be/lgHv_C8b5fM?si=SVxwOV-s5ja5K83V](https://youtu.be/ZqJVLsHW_qM?si=W35qMx5QnY1y6Dbp)
+- [BP_TPSCharacter](https://blueprintue.com/blueprint/42wgomla/)
+- [BP_BaseCar](https://blueprintue.com/blueprint/l08pep-b/)
 
-## Project Process
-1. check and sort out the requirements for the app; https://github.com/01-edu/public/tree/master/subjects/gaming/vehicle-physics
-2. gather assets
-3. Blueprinting!
+## How to Play
+
+To play the game, execute `VehiclePhysics.exe` in the project folder.
+
+- hit Tab to open menu.
+
+You can also check the test play video.
+
+[![video](https://img.youtube.com/vi/ZqJVLsHW_qM/maxresdefault.jpg)](https://youtu.be/ZqJVLsHW_qM)
