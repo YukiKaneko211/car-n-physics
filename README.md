@@ -17,7 +17,7 @@ I used assets provided by kood/Jõhvi.
 
 ## How to Play
 
-To play the game, execute `VehiclePhysics.exe` in the project folder.
+To play the game, download `Windows` folder and execute `VehiclePhysics.exe` in the folder.
 
 - move around by WASD
 - look around by mouse
